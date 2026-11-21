@@ -1,4 +1,4 @@
-# Menu Mod (Fabric, Minecraft 1.21.11)
+# Menu Mod (Fabric, Minecraft 1.21.11) Beta Sürümü
 
 Sag Shift ile acilan, kategorili menu. Her ozellik ayri bir modul.
 
