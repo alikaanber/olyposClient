@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.example.menumod.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "BlockMixin",
+    "EntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
